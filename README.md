@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3731-find-missing-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/3731-find-missing-elements/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
