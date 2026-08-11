@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
