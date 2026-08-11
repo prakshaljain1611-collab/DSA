@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/prakshaljain1611-collab/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prakshaljain1611-collab/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Heap (Priority Queue)
@@ -116,4 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
 <!---LeetCode Topics End-->
