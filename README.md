@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/prakshaljain1611-collab/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
