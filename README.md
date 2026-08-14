@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
