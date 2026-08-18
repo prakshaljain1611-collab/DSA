@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 <!---LeetCode Topics End-->
