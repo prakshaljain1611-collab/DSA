@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
 | [1927-sum-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
