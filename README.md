@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prakshaljain1611-collab/DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
