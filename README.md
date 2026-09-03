@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/prakshaljain1611-collab/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/prakshaljain1611-collab/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/prakshaljain1611-collab/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/prakshaljain1611-collab/DSA/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/prakshaljain1611-collab/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
