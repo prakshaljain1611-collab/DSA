@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
