@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/prakshaljain1611-collab/DSA/tree/main/0670-maximum-swap/) | Medium |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/prakshaljain1611-collab/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prakshaljain1611-collab/DSA/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1927-sum-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1927-sum-game/) | Medium |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/prakshaljain1611-collab/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
