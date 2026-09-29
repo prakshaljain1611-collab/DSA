@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prakshaljain1611-collab/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Prefix Sum
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
