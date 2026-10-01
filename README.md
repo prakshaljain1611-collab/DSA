@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -299,10 +302,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
