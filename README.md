@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/prakshaljain1611-collab/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/prakshaljain1611-collab/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Lifting
