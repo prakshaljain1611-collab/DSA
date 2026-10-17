@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/prakshaljain1611-collab/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0856-score-of-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/0856-score-of-parentheses/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakshaljain1611-collab/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prakshaljain1611-collab/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -367,5 +371,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
