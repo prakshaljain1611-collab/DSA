@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prakshaljain1611-collab/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prakshaljain1611-collab/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prakshaljain1611-collab/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prakshaljain1611-collab/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/prakshaljain1611-collab/DSA/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prakshaljain1611-collab/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prakshaljain1611-collab/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/prakshaljain1611-collab/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prakshaljain1611-collab/DSA/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
