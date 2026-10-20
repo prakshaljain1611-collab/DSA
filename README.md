@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
