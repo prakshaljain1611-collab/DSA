@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakshaljain1611-collab/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
+| [0680-valid-palindrome-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakshaljain1611-collab/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
 | [0670-maximum-swap](https://github.com/prakshaljain1611-collab/DSA/tree/main/0670-maximum-swap/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakshaljain1611-collab/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1927-sum-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
