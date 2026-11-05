@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 <!---LeetCode Topics End-->
