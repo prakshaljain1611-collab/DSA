@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/prakshaljain1611-collab/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/prakshaljain1611-collab/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
