@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/prakshaljain1611-collab/DSA/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakshaljain1611-collab/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0223-rectangle-area](https://github.com/prakshaljain1611-collab/DSA/tree/main/0223-rectangle-area/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/prakshaljain1611-collab/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
