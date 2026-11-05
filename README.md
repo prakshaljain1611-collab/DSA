@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/prakshaljain1611-collab/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/prakshaljain1611-collab/DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
