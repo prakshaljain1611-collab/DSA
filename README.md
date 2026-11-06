@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/prakshaljain1611-collab/DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/prakshaljain1611-collab/DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/prakshaljain1611-collab/DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/prakshaljain1611-collab/DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/prakshaljain1611-collab/DSA/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1609-even-odd-tree/) | Medium |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/prakshaljain1611-collab/DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
