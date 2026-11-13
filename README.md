@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/prakshaljain1611-collab/DSA/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/prakshaljain1611-collab/DSA/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakshaljain1611-collab/DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/prakshaljain1611-collab/DSA/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/prakshaljain1611-collab/DSA/tree/main/0563-binary-tree-tilt/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
