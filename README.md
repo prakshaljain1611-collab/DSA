@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/prakshaljain1611-collab/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/prakshaljain1611-collab/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prakshaljain1611-collab/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prakshaljain1611-collab/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
