@@ -25,7 +25,9 @@ stack<TreeNode*>s;
     int next() {
         TreeNode* ans=s.top();
         s.pop();
+        if(ans->right!=NULL){
             nodes(ans->right);
+        }
         return ans->val;
     }
     
