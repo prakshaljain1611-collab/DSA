@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/prakshaljain1611-collab/DSA/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0724-find-pivot-index](https://github.com/prakshaljain1611-collab/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/prakshaljain1611-collab/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/prakshaljain1611-collab/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/prakshaljain1611-collab/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0856-score-of-parentheses](https://github.com/prakshaljain1611-collab/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakshaljain1611-collab/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prakshaljain1611-collab/DSA/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/prakshaljain1611-collab/DSA/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prakshaljain1611-collab/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## DP on Trees
@@ -532,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prakshaljain1611-collab/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
