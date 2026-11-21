@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prakshaljain1611-collab/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prakshaljain1611-collab/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prakshaljain1611-collab/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prakshaljain1611-collab/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/prakshaljain1611-collab/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
