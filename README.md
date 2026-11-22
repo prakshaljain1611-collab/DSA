@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0724-find-pivot-index](https://github.com/prakshaljain1611-collab/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prakshaljain1611-collab/DSA/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0877-stone-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakshaljain1611-collab/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1260-shift-2d-grid](https://github.com/prakshaljain1611-collab/DSA/tree/master/1260-shift-2d-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prakshaljain1611-collab/DSA/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/prakshaljain1611-collab/DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/prakshaljain1611-collab/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prakshaljain1611-collab/DSA/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakshaljain1611-collab/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 | Problem Name | Difficulty |
@@ -270,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/prakshaljain1611-collab/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prakshaljain1611-collab/DSA/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakshaljain1611-collab/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/prakshaljain1611-collab/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/prakshaljain1611-collab/DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/prakshaljain1611-collab/DSA/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prakshaljain1611-collab/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
