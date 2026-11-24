@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prakshaljain1611-collab/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/prakshaljain1611-collab/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prakshaljain1611-collab/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prakshaljain1611-collab/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prakshaljain1611-collab/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prakshaljain1611-collab/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1927-sum-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prakshaljain1611-collab/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prakshaljain1611-collab/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/prakshaljain1611-collab/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prakshaljain1611-collab/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prakshaljain1611-collab/DSA/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prakshaljain1611-collab/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prakshaljain1611-collab/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/prakshaljain1611-collab/DSA/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
