@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prakshaljain1611-collab/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prakshaljain1611-collab/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1927-sum-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prakshaljain1611-collab/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/prakshaljain1611-collab/DSA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prakshaljain1611-collab/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
