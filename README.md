@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/prakshaljain1611-collab/DSA/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/prakshaljain1611-collab/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2785-sort-vowels-in-a-string](https://github.com/prakshaljain1611-collab/DSA/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prakshaljain1611-collab/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/prakshaljain1611-collab/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prakshaljain1611-collab/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/prakshaljain1611-collab/DSA/tree/main/1927-sum-game/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/prakshaljain1611-collab/DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prakshaljain1611-collab/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/prakshaljain1611-collab/DSA/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prakshaljain1611-collab/DSA/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/prakshaljain1611-collab/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
